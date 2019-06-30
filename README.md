@@ -34,7 +34,7 @@ We know they are Strings because they are wrapped in quotes. The next four lines
 do all of the outputting to your terminal.
 
 ```javascript
-console.log('Name:');
+console.log(Name:);
 console.log(name);
 
 console.log('Height:');
